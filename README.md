@@ -5,11 +5,11 @@
       <img src="https://img.shields.io/badge/Facebook-2f468a?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
     <a href="https://www.youtube.com/channel/UCvfX9o8mIazq2jnHP9dMqeg">
-      <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+      <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
     
   </div>
-  <img src="https://komarev.com/ghpvc/?username=ducluongtran9121&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Xu4nTh0ng&style=flat-square&color=blue" alt=""/>
 
   ### Hi there 👋, welcome to my github <3 
 </div>
