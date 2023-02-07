@@ -13,5 +13,8 @@
 
   ### Hi there 👋, welcome to my github <3 
 </div>
+### :woman_technologist: About Me :
 
+Currently, I’m a third-year student at University of Information Technology (UIT) - HCMVNU <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :seedling: I want to become a Pentester
 ---
